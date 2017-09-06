@@ -25,8 +25,8 @@ class Game
   end
 end
 
-
-game = Game.new(15)
-game.ping_pong()
-game2 = Game.new(16)
-game2.ping_pong()
+#
+# game = Game.new(15)
+# game.ping_pong()
+# game2 = Game.new(16)
+# game2.ping_pong()
